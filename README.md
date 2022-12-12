@@ -60,6 +60,12 @@
 ## Web Application Client Side
 
 
-## APIs Enumeration
+## XSS Attacks
 
-### Tools
+## SQL Injection Attacks
+
+## LFI Attacks
+
+## RFI Attacks
+
+## Command Injection Attacks
