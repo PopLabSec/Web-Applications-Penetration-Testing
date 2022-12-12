@@ -1,7 +1,23 @@
 # Web-Applications-Penetration-Testing
 
 
-Welcome
+## Welcome
+
+- Author
+
+
+
+## Join the Community
+
+- Discord
+- Website
+- LinkedIn
+
+
+## Detect Web Servers
+
+- Netcat
+- Nmap
 
 ## Web Application Enumeration
 
@@ -9,6 +25,8 @@ Welcome
 - gobuster
 - feroxbuster
 - wfuzz
+
+
 
 ### Enumerate Sub Domain
 
@@ -39,4 +57,10 @@ Welcome
 
 
 
-# Detect Web Servers
+
+
+## Web Application Server Side
+## Web Application Client Side
+
+
+## APIs Enumeration
