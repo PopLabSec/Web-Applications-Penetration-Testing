@@ -61,11 +61,27 @@
 
 
 ## XSS Attacks
+### Tools
+### Wordlists
+### Articles
 
 ## SQL Injection Attacks
+### Tools
+### Wordlists
+### Articles
+
 
 ## LFI Attacks
+### Tools
+### Wordlists
+### Articles
 
 ## RFI Attacks
+### Tools
+### Wordlists
+### Articles
 
 ## Command Injection Attacks
+### Tools
+### Wordlists
+### Articles
