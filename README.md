@@ -50,12 +50,9 @@
 
 #### CMS's
 
-#### APIs
-
-- apienum
-# Tools
-
-
+- Wordpress
+- Joomla
+- Drupal
 
 
 
@@ -64,3 +61,5 @@
 
 
 ## APIs Enumeration
+
+### Tools
